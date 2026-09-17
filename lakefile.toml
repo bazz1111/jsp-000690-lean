@@ -1,0 +1,5 @@
+name = "jsp000690"
+defaultTargets = ["Jsp000690"]
+
+[[lean_lib]]
+name = "Jsp000690"

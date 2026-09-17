@@ -1,0 +1,29 @@
+=== structural facts ===
+  [PASS] |V| = 9
+  [PASS] |E| = 22
+  [PASS] all edges are 3-element sets of distinct vertices
+  [PASS] no duplicate edges
+  degrees: {1: 10, 2: 7, 3: 7, 4: 7, 5: 7, 6: 7, 7: 7, 8: 7, 9: 7}
+  [PASS] delta(H) = 7  min=7 max=10
+
+=== H is not 2-colourable (chi(H) = 3) ===
+  [PASS] no proper 2-colouring of H exists  found 0
+
+=== edge-criticality ===
+  [PASS] H - e is 2-colourable for every edge e  failures=[]
+
+=== vertex-criticality ===
+  [PASS] H - v is 2-colourable for every vertex v  failures=[]
+
+=== Table 1: edge-deletion certificates (e is the UNIQUE monochromatic edge) ===
+  [PASS] certificate table covers every edge
+  [PASS] each certificate makes exactly its own edge monochromatic  failures=[]
+  [PASS] every certificate is a subset of V
+
+=== Table 2: vertex-deletion certificates (proper 2-colouring of H - v) ===
+  [PASS] certificate table covers every vertex
+  [PASS] each certificate properly 2-colours H - v  failures=[]
+
+=== overall ===
+  13/13 checks passed
+  CONSTRUCTION VERIFIED

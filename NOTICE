@@ -1,0 +1,40 @@
+Attribution and licensing notice
+================================
+
+Mathematical result
+-------------------
+The hypergraph constructed in this repository, and the mathematical proof that it
+has the stated properties, are due to:
+
+    Ruiliang Li
+    "On an Erdos-Lovasz problem: 3-critical 3-graphs of minimum degree 7"
+    arXiv:2512.24850 (2025)
+    https://arxiv.org/abs/2512.24850
+
+The edge set in Jsp000690/Basic.lean is transcribed from Appendix A of that paper,
+and the certificate tables from Appendix B. Vertex labels are relabelled from the
+paper's 1-based labelling to Fin 9; the relabelling is the identity shift k -> k-1
+and no edge or certificate content was altered.
+
+The paper's licence is the arXiv.org perpetual, non-exclusive licence to distribute.
+No licence is claimed or sublicensed over the paper's text or over the mathematical
+result, which remains the author's work.
+
+Contribution of this repository
+-------------------------------
+This repository contributes only the Lean 4 formalization: the definitions, the
+transcription of the construction into Lean, the statements, and their machine-checked
+proofs. The formalization does not establish authorship of the underlying mathematics
+and does not claim priority for the discovery of the construction.
+
+Formalization author
+--------------------
+GitHub account: bazz1111
+Repository: https://github.com/bazz1111/jsp-000690-lean
+
+No claim is made over any other problem in the Justin Sun Prize problem bank.
+
+Tools
+-----
+Lean 4 (leanprover/lean4:v4.34.0), Apache License 2.0.
+No Mathlib, Batteries or other third-party dependency is used or vendored.

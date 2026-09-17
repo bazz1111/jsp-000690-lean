@@ -1,0 +1,10 @@
+{
+  "Jsp000690.lean": "fbaade7f2b56305af0fd45341b6de0c9cedbbe72e68d3f0bb90c9d557f371521",
+  "Jsp000690/Basic.lean": "69fcf17a53eb0c4f99c7a7cf494997b7f14a032d5f17fc3ce6cdb568eca5f3fb",
+  "lakefile.toml": "5d75e8eda47c58db63764ee8850868eb77dfb7573fed7fae7dd52c6b23663861",
+  "lean-toolchain": "8733782dc070a99b312039cda424f601b80f3be6f6f512627da5ba25adc27632",
+  "README.md": "90156aa37c57a1d43e7cda7e88f494c989977a98e02ffbbb66971c7ae4571c59",
+  "NOTICE": "14159151f6243ce2e99cf3bf46badc5de47693ce13278ccf1fb7ed39ad07e2d2",
+  "verification/axioms.lean": "5ea3caaae2a061a5d0910c884092268038559e455a66fb5b1cfaf1089e06abfd",
+  "verification/cross-check.py": "fb121c8fb86144f939afe8bc8d37b18b99a4d61c16bc94ff21ecff38204730bf"
+}
